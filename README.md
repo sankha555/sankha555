@@ -13,7 +13,7 @@ I am a Computer Science sophomore at BITS Pilani, India. I love developing web-a
 
 - 💬  Ask me about Django, Node.js, Web-Scraping
 
-- 📫  How to reach me: f20190029@pilani.bits-pilani.ac.in
+- 📫   How to reach me: [E-Mail](mailto:f20190029@pilani.bits-pilani.ac.in) | [LinkedIn](https://www.linkedin.com/in/sankha-das-4538711a7/) | [Personal Website](https://sankha555.github.io/index/)
 
 - ⚡  Fun fact: 
      - I am Aditya Birla Scholar, which is awarded to only 15 students each year from India's top engineering schools
@@ -28,15 +28,3 @@ I am a Computer Science sophomore at BITS Pilani, India. I love developing web-a
 <code><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
 
 
-<br/>
-
-### Let's talk!
-
-[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="sankha555 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
-[<img align="left" alt="sankha555 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-<br/> 
-[website]: https://sankha555.github.io/index/
-[gmail]: mailto:umasankhadas@gmail.com 
-[linkedin]: https://www.linkedin.com/in/sankha-das-4538711a7/
