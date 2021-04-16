@@ -5,8 +5,6 @@
 
 I am a Computer Science sophomore at BITS Pilani, India. I love developing web-apps and researching security and cryptography when I am not found binge-watching movies or playing with doggos in my locality :)
 
-- 🔭  I’m currently working on website for Peer Mentorship Programme, BITS Pilani
-
 - 🌱  I’m currently learning Vue.js
 
 - 👯  I’m looking to collaborate on open-source projects
