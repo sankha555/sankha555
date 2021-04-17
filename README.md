@@ -17,6 +17,8 @@ I am a Computer Science sophomore at BITS Pilani, India. I love developing web-a
      - I am an Aditya Birla Scholar, which is awarded to only 15 students each year from India's top engineering schools
      - I am a member of IEEE Gujarat Section, India
 
+[![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=sankha555)](https://github.com/sankha555/github-readme-stats)
+
 ### Skills
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img alt="JavaScript" title="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
