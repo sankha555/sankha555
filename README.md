@@ -24,5 +24,3 @@ I am a Computer Science sophomore at BITS Pilani, India. I love developing web-a
 <code><img alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></code>
 <code><img alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/></code>
 <code><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
-
-[![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=sankha555)](https://github.com/sankha555/github-readme-stats)
