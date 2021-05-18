@@ -14,6 +14,7 @@ I am a Computer Science sophomore at BITS Pilani, India. I love developing web-a
 - 📫   How to reach me: [E-Mail](mailto:f20190029@pilani.bits-pilani.ac.in) | [LinkedIn](https://www.linkedin.com/in/sankha-das-4538711a7/) | [Personal Website](https://sankha555.github.io/index/)
 
 - ⚡  Fun fact: 
+     - I am a Google Summer of Code (GSoC) 2021 student under National Resource for Network Biology (NRNB)  
      - I am an Aditya Birla Scholar, which is awarded to only 15 students each year from India's top engineering schools
      - I am a member of IEEE Gujarat Section, India
 
