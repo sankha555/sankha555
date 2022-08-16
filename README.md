@@ -5,16 +5,17 @@
 
 I am a Computer Science sophomore at BITS Pilani, India. I love developing web-apps and researching security and cryptography when I am not found binge-watching movies or playing with doggos in my locality :)
 
-- 🌱  I’m currently learning Vue.js
+- 🌱  I’m currently working on Vue.js, Python and Solidity.
 
 - 👯  I’m looking to collaborate on open-source projects
 
-- 💬  Ask me about Django, Node.js, Web-Scraping
+- 💬  Ask me about Vue.js Django, Node.js, Web-Scraping, Blockchain.
 
 - 📫   How to reach me: [E-Mail](mailto:f20190029@pilani.bits-pilani.ac.in) | [LinkedIn](https://www.linkedin.com/in/sankha-das-4538711a7/) | [Personal Website](https://sankha555.github.io/index/)
 
 - ⚡  Fun fact: 
-     - I am a Google Summer of Code (GSoC) 2021 student under National Resource for Network Biology (NRNB)  
+     - I am a Google Summer of Code (GSoC) Mentor in 2022 and was a student in 2021 under National Resource for Network Biology (NRNB) 
+     - I am a DAAD-WISE and MITACS Globalink Research Scholarships awardee.
      - I am an Aditya Birla Scholar, which is awarded to only 15 students each year from India's top engineering schools
      - I am a member of IEEE Gujarat Section, India
 
