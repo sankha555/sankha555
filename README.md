@@ -3,7 +3,7 @@
 <!--
 **sankha555/sankha555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Computer Science sophomore at BITS Pilani, India. I love developing web-apps and researching security and cryptography when I am not found binge-watching movies or playing with doggos in my locality :)
+I am a Computer Science senior at BITS Pilani, India. I love developing web-apps and researching security and cryptography when I am not found binge-watching movies or playing with doggos in my locality :)
 
 - 🌱  I’m currently working on Vue.js, Python and Solidity.
 
