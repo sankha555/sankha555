@@ -3,17 +3,16 @@
 <!--
 **sankha555/sankha555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Computer Science senior at BITS Pilani, India. I love developing web-apps and researching security and cryptography when I am not found binge-watching movies or playing with doggos in my locality :)
+I am a Research Fellow at Microsoft Research Labs, India. I graduated with a major in Computer Science from BITS Pilani, India in 2023. I primarily work in secure multi-party computation and privacy-preserving machine learning. Otherwise I can be found binge-watching movies or playing with doggos in my locality :)
 
-- 🌱  I’m currently working on Vue.js, Python and Solidity.
+- 🌱  I’m currently working on Secure Mult-party Computation, Differential Privacy and Privacy-Preserving ML.
 
-- 👯  I’m looking to collaborate on open-source projects
+- 💬  Ask me about MPC, Differential Privacy, Blockchain, Vue.js Django, Node.js, Web-Scraping.
 
-- 💬  Ask me about Vue.js Django, Node.js, Web-Scraping, Blockchain.
+- 📫   How to reach me: [E-Mail](mailto:f20190029p@alumni.bits-pilani.ac.in) | [LinkedIn](https://www.linkedin.com/in/sankhad/) | [Personal Website](https://sankha555.github.io)
 
-- 📫   How to reach me: [E-Mail](mailto:f20190029@pilani.bits-pilani.ac.in) | [LinkedIn](https://www.linkedin.com/in/sankha-das-4538711a7/) | [Personal Website](https://sankha555.github.io/index/)
-
-- ⚡  Fun fact: 
+- ⚡  Fun facts:
+     - I am an IEEE Upsilon Pi Epsilon awardee, an award bestowed on just 4 Computer Science students every year from across the world. 
      - I am a Google Summer of Code (GSoC) Mentor in 2022 and was a student in 2021 under National Resource for Network Biology (NRNB) 
      - I am a DAAD-WISE and MITACS Globalink Research Scholarships awardee.
      - I am an Aditya Birla Scholar, which is awarded to only 15 students each year from India's top engineering schools
