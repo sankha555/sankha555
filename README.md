@@ -3,9 +3,9 @@
 <!--
 **sankha555/sankha555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Research Fellow at Microsoft Research Labs, India. I graduated with a major in Computer Science from BITS Pilani, India in 2023. I primarily work in secure multi-party computation and privacy-preserving machine learning. Otherwise I can be found binge-watching movies or playing with doggos in my locality :)
+I am a PhD student at GeorgiaTech in the School of Cybersecurity and Privacy. Previously, I was a Research Fellow at Microsoft Research Lab, India. I graduated with a major in Computer Science from BITS Pilani, India in 2023. I primarily work in secure multi-party computation and secure machine learning. Otherwise I can be found reading novels, fiddling with my guitar or painting :)
 
-- 🌱  I’m currently working on Secure Mult-party Computation, Differential Privacy and Privacy-Preserving ML.
+- 🌱  I’m currently working on Secure Mult-party Computation and Secure ML.
 
 - 💬  Ask me about MPC, Differential Privacy, Blockchain, Vue.js Django, Node.js, Web-Scraping.
 
